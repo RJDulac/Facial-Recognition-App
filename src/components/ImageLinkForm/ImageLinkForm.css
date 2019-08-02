@@ -1,0 +1,22 @@
+.form {
+  width: 700px;
+  background: radial-gradient(
+      circle at 100% 50%,
+      transparent 20%,
+      rgba(200, 80, 204, 0.3) 21%,
+      rgba(200, 80, 204, 0.3) 34%,
+      transparent 35%,
+      transparent
+    ),
+    radial-gradient(
+        circle at 0% 50%,
+        transparent 20%,
+        rgba(200, 80, 204, 0.3) 21%,
+        rgba(200, 80, 204, 0.3) 34%,
+        transparent 35%,
+        transparent
+      )
+      0 -50px;
+  background-color: rgb(23, 129, 235);
+  background-size: 75px 100px;
+}
