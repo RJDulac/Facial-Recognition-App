@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "//Facial-Recognition-GHP/static/css/main.f30d8e1e.chunk.css",
-    "main.js": "//Facial-Recognition-GHP/static/js/main.38c89241.chunk.js",
-    "main.js.map": "//Facial-Recognition-GHP/static/js/main.38c89241.chunk.js.map",
-    "runtime~main.js": "//Facial-Recognition-GHP/static/js/runtime~main.d57ec4eb.js",
-    "runtime~main.js.map": "//Facial-Recognition-GHP/static/js/runtime~main.d57ec4eb.js.map",
-    "static/css/2.31dafeb2.chunk.css": "//Facial-Recognition-GHP/static/css/2.31dafeb2.chunk.css",
-    "static/js/2.06d838bc.chunk.js": "//Facial-Recognition-GHP/static/js/2.06d838bc.chunk.js",
-    "static/js/2.06d838bc.chunk.js.map": "//Facial-Recognition-GHP/static/js/2.06d838bc.chunk.js.map",
-    "index.html": "//Facial-Recognition-GHP/index.html",
-    "precache-manifest.188c71442f49c001e4f1397f4cf1d878.js": "//Facial-Recognition-GHP/precache-manifest.188c71442f49c001e4f1397f4cf1d878.js",
-    "service-worker.js": "//Facial-Recognition-GHP/service-worker.js",
-    "static/css/2.31dafeb2.chunk.css.map": "//Facial-Recognition-GHP/static/css/2.31dafeb2.chunk.css.map",
-    "static/css/main.f30d8e1e.chunk.css.map": "//Facial-Recognition-GHP/static/css/main.f30d8e1e.chunk.css.map"
+    "main.css": "//Facial-Recognition-App/static/css/main.f30d8e1e.chunk.css",
+    "main.js": "//Facial-Recognition-App/static/js/main.8b6f358b.chunk.js",
+    "main.js.map": "//Facial-Recognition-App/static/js/main.8b6f358b.chunk.js.map",
+    "runtime~main.js": "//Facial-Recognition-App/static/js/runtime~main.ce58a6b2.js",
+    "runtime~main.js.map": "//Facial-Recognition-App/static/js/runtime~main.ce58a6b2.js.map",
+    "static/css/2.31dafeb2.chunk.css": "//Facial-Recognition-App/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.06d838bc.chunk.js": "//Facial-Recognition-App/static/js/2.06d838bc.chunk.js",
+    "static/js/2.06d838bc.chunk.js.map": "//Facial-Recognition-App/static/js/2.06d838bc.chunk.js.map",
+    "index.html": "//Facial-Recognition-App/index.html",
+    "precache-manifest.bfe9d6838af0a0ae8a6cb94a656f1bde.js": "//Facial-Recognition-App/precache-manifest.bfe9d6838af0a0ae8a6cb94a656f1bde.js",
+    "service-worker.js": "//Facial-Recognition-App/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "//Facial-Recognition-App/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.f30d8e1e.chunk.css.map": "//Facial-Recognition-App/static/css/main.f30d8e1e.chunk.css.map"
   }
 }
