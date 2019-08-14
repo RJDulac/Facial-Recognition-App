@@ -16,7 +16,7 @@ class Register extends Component {
   //maybe use redux
   //refactor this function and onSubmitSignIn -- both are similar
   onSubmitRegister() {
-    fetch("http://localhost:3000/register", {
+    fetch("https://shrouded-woodland-26037.herokuapp.com/register", {
       method: "post",
       headers: { "content-type": "application/json" },
       body: JSON.stringify({
